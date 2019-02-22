@@ -90,6 +90,8 @@ Photo Contest Entries
 .. code::
 
   geogradcolloquium@gmail.com. Format the subject title as "Photo<lastName><FirstName>"
+	
+	**Note, the photo will be printed in black and white.**
 
 -----
 
